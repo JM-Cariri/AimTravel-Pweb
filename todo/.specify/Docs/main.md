@@ -1,6 +1,6 @@
 # AimTravel — Visão Geral do Projeto (main.md)
 
-> Versão: 0.3
+> Versão: 0.4
 > Última atualização: Maio/2026
 > Status: Em andamento
 
@@ -101,7 +101,6 @@ Criar uma plataforma PWA que mostre ao público que é possível viajar de forma
 
 ## 4. Identidade Visual
 
-> ⚠️ Identidade visual ainda não definida formalmente. As diretrizes abaixo são uma proposta inicial a ser validada com a equipe.
 
 ### Tom e Personalidade
 - Moderno, acessível e inspirador
@@ -126,15 +125,11 @@ Criar uma plataforma PWA que mostre ao público que é possível viajar de forma
 - Fotos reais de usuários, sem imagens de banco (stock photo)
 - Autenticidade como diferencial visual da plataforma
 
-### Ícones
-- Estilo linha fina (thin line), flat
-- Consistência visual em toda a plataforma
+> Mais informações em design-system.md
 
 ### Elementos a Definir
 - [ ] Logo oficial do AimTravel
-- [ ] Paleta de cores definitiva com códigos hex
-- [ ] Tipografia oficial
-- [ ] Guia de componentes UI (Design System)
+
 
 ---
 
@@ -235,10 +230,8 @@ Ordenadas por prioridade — do core do produto para funcionalidades secundária
 
 ## 7. Pontos em Aberto
 
-- [ ] Definir modelo final do sistema de recompensas (cupons, milhas ou moeda interna)
 - [ ] Levantar e validar APIs dos parceiros (Latam, Azul, Booking, Decolar)
 - [ ] Definir critérios de moderação dos relatos (automática ou manual)
-- [ ] Definir identidade visual oficial
 - [ ] Definir hospedagem e infraestrutura de produção
 - [ ] Pesquisar regulamentações para programa de milhas no Brasil
 
