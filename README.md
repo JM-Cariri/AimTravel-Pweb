@@ -1,4 +1,4 @@
-# ✈️ AimTravel
+# AimTravel
 
 > Viaje mais, gaste menos — inspire e seja inspirado.
 
@@ -6,7 +6,7 @@ AimTravel é uma plataforma PWA de viagens onde usuários compartilham relatos r
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 **Frontend**
 - React.js
@@ -23,7 +23,7 @@ AimTravel é uma plataforma PWA de viagens onde usuários compartilham relatos r
 
 ---
 
-## 📋 Pré-requisitos
+## Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado na sua máquina:
 
@@ -92,7 +92,7 @@ O frontend estará disponível em `http://localhost:3000`
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 /AimTravel-Pweb
@@ -103,7 +103,7 @@ O frontend estará disponível em `http://localhost:3000`
 
 ---
 
-## 📚 Documentação
+## Documentação
 
 Toda a documentação do projeto está na pasta `/docs`:
 
@@ -115,7 +115,7 @@ Toda a documentação do projeto está na pasta `/docs`:
 
 ---
 
-## 🌿 Branches
+## Branches
 
 ```
 main          ← produção, sempre estável
@@ -129,12 +129,12 @@ Nunca commitar direto na `main`. Sempre abrir Pull Request para `develop`.
 
 ---
 
-## 👥 Time
+## Time
 
 Projeto desenvolvido como parte de trabalho acadêmico.
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto é de uso acadêmico e não possui licença de distribuição pública.
