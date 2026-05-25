@@ -33,7 +33,7 @@ Antes de começar, certifique-se de ter instalado na sua máquina:
 
 ---
 
-## ⚙️ Como rodar o projeto localmente
+##  Como rodar o projeto localmente
 
 ### 1. Clone o repositório
 
